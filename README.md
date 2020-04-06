@@ -1,22 +1,22 @@
 British columbia 
-please play again 70
-free coffee 10 
-free donut 10
-grandprize 10 
+1. please play again 70%
+2. free coffee 10%
+3. free donut 10%
+4. grandprize 10%
 
 
 Alberta 
-please play again 15 
-free coffee 40 
-free donut 40 
-grandprize 5 
+1. please play again 15% 
+2. free coffee 40%
+3. free donut 40%
+4. grandprize 5%
 
 
 Saskatchewan 
-please play again 70 
-free coffee 1 
-free donut 1 
-grand prize 28
+1. please play again 70%
+2. free coffee 1%
+3. free donut 1%
+4. grand prize 28%
 
 and then...
 1. simulate once 
